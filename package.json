@@ -1,0 +1,30 @@
+{
+  "name": "firebaseauthentication",
+  "version": "1.0.0",
+  "description": "authentication through firebase",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "firebase": "^4.5.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-print": "^5.0.0",
+    "gulpfile.js": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerasiddiqui/firebaseAuthentication.git"
+  },
+  "author": "omer siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerasiddiqui/firebaseAuthentication/issues"
+  },
+  "homepage": "https://github.com/omerasiddiqui/firebaseAuthentication#readme"
+}
